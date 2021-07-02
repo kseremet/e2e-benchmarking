@@ -1,6 +1,6 @@
 
 # Common
-export OPERATOR_REPO=${OPERATOR_REPO:-https://github.com/cloud-bulldozer/benchmark-operator.git}
+export OPERATOR_REPO=${OPERATOR_REPO:-https://github.com/kseremet/benchmark-operator.git}
 export OPERATOR_BRANCH=${OPERATOR_BRANCH:-master}
 export QPS=${QPS:-20}
 export BURST=${BURST:-20}
